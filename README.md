@@ -54,7 +54,9 @@ src/
 
 ## 👤 Author
 
-**Rohit Jangid** 💼 *Connect with me across my professional and social handles:*
+**Rohit Jangid** 
+
+💼 *Connect with me across my professional and social handles:*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitjanggid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-jangid-831149402)
@@ -68,4 +70,4 @@ src/
 
 If you found this project helpful, well-architected, or learned something new from it, please consider giving this repository a star! It motivates me to build more open-source projects.
 
-🌟 **[Click here to star this repository!](https://github.com/your-github-username/movsphere)**
+🌟 **[Click here to star this repository!](https://github.com/rohitjanggid/movsphere)**
