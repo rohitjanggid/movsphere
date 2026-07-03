@@ -2,7 +2,7 @@
 
 MovSphere is a fully responsive and feature-rich Movie Web Application built using React.jsx and Bootstrap. The application integrates the TMDB (The Movie Database) API to fetch and display real-time trending, top-rated, and action-thriller movies. It features a seamless video trailer playback system and a persistent watchlist feature driven by the browser's LocalStorage.
 
-🔗 **Live Demo Link:** [Insert Your Vercel/Netlify Live Link Here]
+🔗 **Live Demo Link:** [https://movsphere.vercel.app/]
 
 ---
 
