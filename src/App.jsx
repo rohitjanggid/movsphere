@@ -171,7 +171,7 @@ function App() {
         {/* scrollable Dynamic content Body */}
         {loading ? (
           <div
-            className="d-flex justify-content-center align-items-center flex-grow-1"
+            className="d-flex justify-content-center align-items-center "
             style={{ minHeight: "50vh" }}
           >
             <div
