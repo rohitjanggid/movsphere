@@ -76,7 +76,7 @@ const TrailerModal = ({
                   "No overview description available for this content structure."}
               </p>
               <button
-              onClick={onWatchlistToggle}
+                onClick={onWatchlistToggle}
                 className="btn w-100 fw-bold py-2 text-white border-0"
                 style={{
                   background:
@@ -84,7 +84,9 @@ const TrailerModal = ({
                   borderRadius: "10px",
                 }}
               >
-                {isAdded ? "Remove From watchlist Collection" : "Add to watchlist Collection"}
+                {isAdded
+                  ? "Remove From watchlist Collection"
+                  : "Add to watchlist Collection"}
               </button>
             </div>
           </div>
